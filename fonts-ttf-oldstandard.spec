@@ -56,3 +56,14 @@ ttmkfdir %{buildroot}%{_xfontdir}/TTF/oldstandard -o %{buildroot}%{_xfontdir}/TT
 
 
 
+
+
+%changelog
+* Fri Dec 09 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 2.2-1mdv2012.0
++ Revision: 739416
+- Update to 2.2
+
+* Fri Jul 22 2011 Sergey Zhemoitel <serg@mandriva.org> 2.0.2-1
++ Revision: 690992
+- imported package fonts-ttf-oldstandard
+
