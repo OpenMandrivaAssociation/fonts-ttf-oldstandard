@@ -3,7 +3,7 @@
 Summary:	Old-style font family
 Name:		fonts-ttf-oldstandard
 Version:	2.2
-Release:	%mkrel 1
+Release:	2
 License:	OFL
 Group:		System/Fonts/True type
 URL:		http://www.thessalonica.org.ru/en/fonts.html
